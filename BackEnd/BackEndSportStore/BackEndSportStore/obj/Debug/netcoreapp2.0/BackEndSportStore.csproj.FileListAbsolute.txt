@@ -1,0 +1,14 @@
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\bin\Debug\netcoreapp2.0\BackEndSportStore.deps.json
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\bin\Debug\netcoreapp2.0\BackEndSportStore.runtimeconfig.json
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\bin\Debug\netcoreapp2.0\BackEndSportStore.runtimeconfig.dev.json
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\bin\Debug\netcoreapp2.0\BackEndSportStore.dll
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\bin\Debug\netcoreapp2.0\BackEndSportStore.pdb
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\obj\Debug\netcoreapp2.0\BackEndSportStore.csprojAssemblyReference.cache
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\obj\Debug\netcoreapp2.0\BackEndSportStore.csproj.CoreCompileInputs.cache
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\obj\Debug\netcoreapp2.0\BackEndSportStore.RazorAssemblyInfo.cache
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\obj\Debug\netcoreapp2.0\BackEndSportStore.RazorAssemblyInfo.cs
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\obj\Debug\netcoreapp2.0\BackEndSportStore.AssemblyInfoInputs.cache
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\obj\Debug\netcoreapp2.0\BackEndSportStore.AssemblyInfo.cs
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\obj\Debug\netcoreapp2.0\BackEndSportStore.RazorTargetAssemblyInfo.cache
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\obj\Debug\netcoreapp2.0\BackEndSportStore.dll
+C:\IT\MHH\BackEnd\BackEndSportStore\BackEndSportStore\obj\Debug\netcoreapp2.0\BackEndSportStore.pdb

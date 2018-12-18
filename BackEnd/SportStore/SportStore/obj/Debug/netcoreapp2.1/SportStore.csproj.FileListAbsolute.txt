@@ -1,0 +1,14 @@
+C:\IT\MHH\BackEnd\SportStore\SportStore\bin\Debug\netcoreapp2.1\SportStore.deps.json
+C:\IT\MHH\BackEnd\SportStore\SportStore\bin\Debug\netcoreapp2.1\SportStore.runtimeconfig.json
+C:\IT\MHH\BackEnd\SportStore\SportStore\bin\Debug\netcoreapp2.1\SportStore.runtimeconfig.dev.json
+C:\IT\MHH\BackEnd\SportStore\SportStore\bin\Debug\netcoreapp2.1\SportStore.dll
+C:\IT\MHH\BackEnd\SportStore\SportStore\bin\Debug\netcoreapp2.1\SportStore.pdb
+C:\IT\MHH\BackEnd\SportStore\SportStore\obj\Debug\netcoreapp2.1\SportStore.csproj.CoreCompileInputs.cache
+C:\IT\MHH\BackEnd\SportStore\SportStore\obj\Debug\netcoreapp2.1\SportStore.RazorAssemblyInfo.cache
+C:\IT\MHH\BackEnd\SportStore\SportStore\obj\Debug\netcoreapp2.1\SportStore.RazorAssemblyInfo.cs
+C:\IT\MHH\BackEnd\SportStore\SportStore\obj\Debug\netcoreapp2.1\SportStore.AssemblyInfoInputs.cache
+C:\IT\MHH\BackEnd\SportStore\SportStore\obj\Debug\netcoreapp2.1\SportStore.AssemblyInfo.cs
+C:\IT\MHH\BackEnd\SportStore\SportStore\obj\Debug\netcoreapp2.1\SportStore.RazorTargetAssemblyInfo.cache
+C:\IT\MHH\BackEnd\SportStore\SportStore\obj\Debug\netcoreapp2.1\SportStore.dll
+C:\IT\MHH\BackEnd\SportStore\SportStore\obj\Debug\netcoreapp2.1\SportStore.pdb
+C:\IT\MHH\BackEnd\SportStore\SportStore\obj\Debug\netcoreapp2.1\SportStore.csprojAssemblyReference.cache
